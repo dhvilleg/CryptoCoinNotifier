@@ -1,0 +1,556 @@
+{'ok': True, 'result': {'message_id': 17, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664016, 'text': 'El precio del: DOGE esta a la baja con valor 0.2418630902607'}}
+{'ok': True, 'result': {'message_id': 19, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664242, 'text': 'El precio del: DOGE esta a la baja con valor 0.24234536736172'}}
+{'ok': True, 'result': {'message_id': 21, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664262, 'text': 'El precio del: DOGE esta a la baja con valor 0.24234536736172'}}
+{'ok': True, 'result': {'message_id': 22, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664263, 'text': 'El precio del: BTC esta a la baja con valor 53926.64354313946'}}
+{'ok': True, 'result': {'message_id': 23, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664328, 'text': 'El precio del: DOGE esta a la baja con valor 0.24196758573035'}}
+{'ok': True, 'result': {'message_id': 24, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664329, 'text': 'El precio del: BTC esta a la baja con valor 53853.84605722145'}}
+{'ok': True, 'result': {'message_id': 25, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664343, 'text': 'El precio del: DOGE esta a la baja con valor 0.24196758573035'}}
+{'ok': True, 'result': {'message_id': 26, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664345, 'text': 'El precio del: BTC esta a la baja con valor 53853.84605722145'}}
+{'ok': True, 'result': {'message_id': 27, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664441, 'text': 'El precio del: DOGE esta a la baja con valor 0.24198907599398'}}
+{'ok': True, 'result': {'message_id': 28, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664442, 'text': 'El precio del: BTC esta a la baja con valor 53837.28022064437'}}
+{'ok': True, 'result': {'message_id': 29, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664916, 'text': 'El precio del: DOGE esta a la baja con valor 0.24226296784018'}}
+{'ok': True, 'result': {'message_id': 30, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664917, 'text': 'El precio del: BTC esta a la baja con valor 53782.04085626719'}}
+{'ok': True, 'result': {'message_id': 31, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633664999, 'text': 'El precio del: DOGE esta a la baja con valor 0.24237091638644'}}
+{'ok': True, 'result': {'message_id': 32, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633665000, 'text': 'El precio del: BTC esta a la baja con valor 53816.248983782345'}}
+{'ok': True, 'result': {'message_id': 33, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633665049, 'text': 'El precio del: DOGE esta a la baja con valor 0.24245829286222'}}
+{'ok': True, 'result': {'message_id': 34, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633665050, 'text': 'El precio del: BTC esta a la baja con valor 53816.62863720504'}}
+{'ok': True, 'result': {'message_id': 35, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633665150, 'text': 'El precio del: DOGE esta a la baja con valor 0.24248955688636'}}
+{'ok': True, 'result': {'message_id': 36, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633665151, 'text': 'El precio del: BTC esta a la baja con valor 53822.34790720122'}}
+{'ok': True, 'result': {'message_id': 37, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633665590, 'text': 'El precio del: DOGE esta a la baja con valor 0.2434512975116'}}
+{'ok': True, 'result': {'message_id': 38, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633665591, 'text': 'El precio del: BTC esta a la baja con valor 53819.58578145551'}}
+El precio del: DOGE al 2021-10-08 19:28:10.223667 es de: 0.24338437428196
+El precio del: BTC al 2021-10-08 19:28:10.562405 es de: 54178.89310488135
+El precio del: DOGE al 2021-10-08 19:29:51.550741 es de: 0.24320217096517
+{'ok': True, 'result': {'message_id': 39, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633739392, 'text': 'El precio del: DOGE esta a la baja con valor 0.24320217096517'}}
+El precio del: BTC al 2021-10-08 19:29:53.091172 es de: 54170.91520115288
+El precio del: SOL al 2021-10-08 19:29:54.457332 es de: 159.27641750160592
+El precio del: DOGE al 2021-10-08 19:30:37.807733 es de: 0.24316927649375
+El precio del: BTC al 2021-10-08 19:30:38.324412 es de: 54161.04089771131
+El precio del: SOL al 2021-10-08 19:30:38.610051 es de: 159.105409935778
+El precio del: DOGE al 2021-10-08 19:31:11.850606 es de: 0.24316927649375
+El precio del: BTC al 2021-10-08 19:31:12.198126 es de: 54161.04089771131
+El precio del: SOL al 2021-10-08 19:31:12.420693 es de: 159.105409935778
+{'ok': True, 'result': {'message_id': 40, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633739473, 'text': 'El precio del: SOL esta a la baja con valor 159.105409935778'}}
+El precio del: DOGE al 2021-10-08 19:46:10.449893 es de: 0.24447263667742
+El precio del: BTC al 2021-10-08 19:46:13.360783 es de: 54233.61446878621
+El precio del: SOL al 2021-10-08 19:46:14.183016 es de: 159.7244419667123
+El precio del: DOGE al 2021-10-08 22:03:46.791785 es de: 0.24450023851106
+El precio del: BTC al 2021-10-08 22:03:47.477896 es de: 54156.760723005405
+El precio del: SOL al 2021-10-08 22:03:47.988586 es de: 158.5249061086484
+El precio del: DOGE al 2021-10-09 00:15:36.999567 es de: 0.24618775112296
+El precio del: BTC al 2021-10-09 00:15:37.539026 es de: 54595.99157806805
+El precio del: SOL al 2021-10-09 00:15:38.010866 es de: 161.2372788340801
+{'ok': True, 'result': {'message_id': 41, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633756538, 'text': 'El precio del: SOL esta al alza con valor 161.2372788340801', 'entities': []}}
+El precio del: DOGE al 2021-10-09 01:37:52.484834 es de: 0.24669274160232
+El precio del: BTC al 2021-10-09 01:37:53.031762 es de: 54964.47036774078
+El precio del: SOL al 2021-10-09 01:37:53.494822 es de: 160.2202338005241
+{'ok': True, 'result': {'message_id': 42, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633761473, 'text': 'El precio del: SOL esta al alza con valor 160.2202338005241'}}
+El precio del: DOGE al 2021-10-09 10:19:54.462980 es de: 0.24806439532433
+El precio del: BTC al 2021-10-09 10:19:55.396115 es de: 55088.50426969365
+El precio del: SOL al 2021-10-09 10:19:55.797294 es de: 157.91208711991686
+El precio del: DOGE al 2021-10-09 10:20:41.146756 es de: 0.24838027479548
+El precio del: BTC al 2021-10-09 10:20:41.339655 es de: 55114.12073632721
+El precio del: SOL al 2021-10-09 10:20:41.571100 es de: 158.01242568510762
+El precio del: DOGE al 2021-10-09 11:17:22.193573 es de: 0.25076253035942
+El precio del: BTC al 2021-10-09 11:17:22.657031 es de: 55054.19833938854
+El precio del: SOL al 2021-10-09 11:17:22.841898 es de: 158.1153242495814
+El precio del: DOGE al 2021-10-09 15:24:31.726690 es de: 0.24611481494851
+El precio del: BTC al 2021-10-09 15:24:33.021013 es de: 54498.20240794406
+El precio del: SOL al 2021-10-09 15:24:33.415177 es de: 155.6312153303069
+El precio del: DOGE al 2021-10-09 15:27:28.952044 es de: 0.24580871276365
+El precio del: BTC al 2021-10-09 15:27:29.925670 es de: 54483.16091610468
+El precio del: SOL al 2021-10-09 15:27:32.174397 es de: 155.45164632969738
+El precio del: ETH al 2021-10-09 15:27:45.009765 es de: 3570.460647921645
+El precio del: DOGE al 2021-10-09 15:32:05.193931 es de: 0.24569803794563
+El precio del: BTC al 2021-10-09 15:32:06.104165 es de: 54441.47397548332
+El precio del: SOL al 2021-10-09 15:32:07.109848 es de: 155.53220116275597
+El precio del: ETH al 2021-10-09 15:32:07.692977 es de: 3569.1420237841644
+El precio del: ADA al 2021-10-09 15:32:08.753583 es de: 2.26562806378393
+El precio del: DOGE al 2021-10-09 17:12:39.411457 es de: 0.24638164643758
+El precio del: BTC al 2021-10-09 17:12:39.651476 es de: 54794.20614786857
+El precio del: SOL al 2021-10-09 17:12:39.889809 es de: 157.18937852077295
+El precio del: ETH al 2021-10-09 17:12:40.109794 es de: 3579.212407488636
+El precio del: ADA al 2021-10-09 17:12:40.467356 es de: 2.26489055396834
+{'ok': True, 'result': {'message_id': 43, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1633817561, 'text': 'El precio del: ADA esta a la baja con valor 2.26489055396834'}}
+El precio del: DOGE al 2021-10-09 17:14:39.888829 es de: 0.24656874233999
+El precio del: BTC al 2021-10-09 17:14:40.206676 es de: 54823.472749727625
+El precio del: SOL al 2021-10-09 17:14:40.386995 es de: 157.3100045104337
+El precio del: ETH al 2021-10-09 17:14:40.579608 es de: 3581.1216718585597
+El precio del: ADA al 2021-10-09 17:14:40.798639 es de: 2.26586239883953
+El precio del: DOGE al 2021-10-09 17:17:43.637025 es de: 0.2468897779904
+El precio del: BTC al 2021-10-09 17:17:44.035801 es de: 54894.6970728579
+El precio del: SOL al 2021-10-09 17:17:44.536296 es de: 157.28058704713573
+El precio del: ETH al 2021-10-09 17:17:44.763810 es de: 3585.1699318241144
+El precio del: ADA al 2021-10-09 17:17:45.003474 es de: 2.27056887555682
+El precio del: DOGE al 2021-10-09 17:25:51.035838 es de: 0.24813829515526
+El precio del: BTC al 2021-10-09 17:25:51.461387 es de: 54933.040798435315
+El precio del: SOL al 2021-10-09 17:25:51.726762 es de: 157.23011860348254
+El precio del: ETH al 2021-10-09 17:25:52.223337 es de: 3588.003375455704
+El precio del: ADA al 2021-10-09 17:25:52.504111 es de: 2.26741674981247
+El precio del: DOGE al 2021-10-09 19:03:01.855557 es de: 0.24630295381298
+El precio del: BTC al 2021-10-09 19:03:02.383050 es de: 54917.08560340505
+El precio del: SOL al 2021-10-09 19:03:02.733603 es de: 156.56685685319863
+El precio del: ETH al 2021-10-09 19:03:03.083236 es de: 3570.13657703809
+El precio del: ADA al 2021-10-09 19:03:03.424867 es de: 2.26858348085215
+El precio del: DOGE al 2021-10-09 20:32:25.475426 es de: 0.24304984085273
+El precio del: BTC al 2021-10-09 20:32:26.132934 es de: 54492.601286589925
+El precio del: SOL al 2021-10-09 20:32:26.768974 es de: 152.93264836494453
+El precio del: ETH al 2021-10-09 20:32:27.324263 es de: 3503.925188771937
+El precio del: ADA al 2021-10-09 20:32:27.871210 es de: 2.23612133709052
+El precio del: DOGE al 2021-10-10 01:30:53.766077 es de: 0.24696346787027
+El precio del: BTC al 2021-10-10 01:30:54.365021 es de: 55683.765126760314
+El precio del: SOL al 2021-10-10 01:30:54.818686 es de: 156.1268620123824
+El precio del: ETH al 2021-10-10 01:30:55.266478 es de: 3589.645482489099
+El precio del: ADA al 2021-10-10 01:30:55.802541 es de: 2.26370977127625
+El precio del: DOGE al 2021-10-10 01:59:12.040191 es de: 0.24724304233675
+El precio del: BTC al 2021-10-10 01:59:12.623181 es de: 55608.394658679725
+El precio del: SOL al 2021-10-10 01:59:13.068653 es de: 156.03460237162864
+El precio del: ETH al 2021-10-10 01:59:13.533241 es de: 3599.7004410041563
+El precio del: ADA al 2021-10-10 01:59:13.967538 es de: 2.26664617662436
+El precio del: DOGE al 2021-10-10 02:01:36.569966 es de: 0.24706936739227
+El precio del: BTC al 2021-10-10 02:01:37.073986 es de: 55615.726245866965
+El precio del: SOL al 2021-10-10 02:01:37.526334 es de: 156.02041943543017
+El precio del: ETH al 2021-10-10 02:01:37.973040 es de: 3596.7654701403426
+El precio del: ADA al 2021-10-10 02:01:38.442449 es de: 2.26757091773469
+El precio del: DOGE al 2021-10-10 13:57:16.946663 es de: 0.24096498930688
+El precio del: BTC al 2021-10-10 13:57:17.239341 es de: 55225.7940588588
+El precio del: SOL al 2021-10-10 13:57:17.648686 es de: 153.45563384599387
+El precio del: ETH al 2021-10-10 13:57:17.891508 es de: 3522.2869832875776
+El precio del: ADA al 2021-10-10 13:57:18.165033 es de: 2.23233745287326
+El precio del: DOGE al 2021-10-10 13:57:37.514442 es de: 0.24086068166317
+El precio del: BTC al 2021-10-10 13:57:37.738727 es de: 55210.44373292455
+El precio del: SOL al 2021-10-10 13:57:37.958191 es de: 153.3416235249313
+El precio del: ETH al 2021-10-10 13:57:38.206589 es de: 3521.0916728776556
+El precio del: ADA al 2021-10-10 13:57:38.469041 es de: 2.23502112547208
+El precio del: DOGE al 2021-10-10 14:21:38.276748 es de: 0.24094488319929
+El precio del: BTC al 2021-10-10 14:21:38.797183 es de: 55250.48311535272
+El precio del: SOL al 2021-10-10 14:21:39.059873 es de: 153.524986468319
+El precio del: ETH al 2021-10-10 14:21:39.291858 es de: 3524.0151337279044
+El precio del: ADA al 2021-10-10 14:21:39.520316 es de: 2.23497706149285
+El precio del: DOGE al 2021-10-13 14:08:56.423107 es de: 0.22851472460197
+El precio del: BTC al 2021-10-13 14:08:57.332899 es de: 57066.49661764686
+El precio del: SOL al 2021-10-13 14:08:58.016036 es de: 145.1123770456766
+El precio del: ETH al 2021-10-13 14:08:58.614709 es de: 3518.1824503243756
+El precio del: ADA al 2021-10-13 14:08:59.164068 es de: 2.15636868558196
+{'ok': True, 'result': {'message_id': 44, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634152139, 'text': 'El precio del: ADA esta a la baja con valor 2.15636868558196'}}
+El precio del: DOGE al 2021-10-13 15:17:06.855673 es de: 0.2298184304162
+El precio del: BTC al 2021-10-13 15:17:11.897094 es de: 57185.73649440101
+El precio del: SOL al 2021-10-13 15:17:13.370334 es de: 145.60161501715942
+El precio del: ETH al 2021-10-13 15:17:14.457537 es de: 3531.234931327895
+El precio del: ADA al 2021-10-13 15:17:19.470995 es de: 2.14879575213662
+{'ok': True, 'result': {'message_id': 45, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634156241, 'text': 'El precio del: ADA esta a la baja con valor 2.14879575213662'}}
+El precio del: DOGE al 2021-10-16 13:03:27.271947 es de: 0.23803291917931
+El precio del: BTC al 2021-10-16 13:03:28.017739 es de: 60524.40980935513
+{'ok': True, 'result': {'message_id': 46, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634407408, 'text': 'El precio del: BTC esta al alza con valor 60524.40980935513'}}
+El precio del: SOL al 2021-10-16 13:03:29.483559 es de: 158.671936222186
+El precio del: ETH al 2021-10-16 13:03:29.686246 es de: 3864.174573233976
+{'ok': True, 'result': {'message_id': 47, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634407409, 'text': 'El precio del: ETH esta al alza con valor 3864.174573233976'}}
+El precio del: ADA al 2021-10-16 13:03:30.634894 es de: 2.19116836614976
+{'ok': True, 'result': {'message_id': 48, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634407410, 'text': 'El precio del: ADA esta a la baja con valor 2.19116836614976'}}
+El precio del: DOGE al 2021-10-17 08:52:15.138690 es de: 0.23854139059607
+El precio del: BTC al 2021-10-17 08:52:15.922671 es de: 60775.3106235503
+{'ok': True, 'result': {'message_id': 49, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634478738, 'text': 'El precio del: BTC esta al alza con valor 60775.3106235503'}}
+El precio del: SOL al 2021-10-17 08:52:19.427092 es de: 163.7282842568408
+{'ok': True, 'result': {'message_id': 50, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634478739, 'text': 'El precio del: SOL esta al alza con valor 163.7282842568408'}}
+El precio del: ETH al 2021-10-17 08:52:20.556213 es de: 3851.2483125907743
+{'ok': True, 'result': {'message_id': 51, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634478740, 'text': 'El precio del: ETH esta al alza con valor 3851.2483125907743'}}
+El precio del: ADA al 2021-10-17 08:52:22.577422 es de: 2.16836540461479
+{'ok': True, 'result': {'message_id': 52, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634478743, 'text': 'El precio del: ADA esta a la baja con valor 2.16836540461479'}}
+El precio del: DOGE al 2021-10-17 17:31:57.406896 es de: 0.24127751523469
+El precio del: BTC al 2021-10-17 17:31:58.328819 es de: 60969.88221230379
+{'ok': True, 'result': {'message_id': 53, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634509917, 'text': 'El precio del: BTC esta al alza con valor 60969.88221230379'}}
+El precio del: SOL al 2021-10-17 17:31:59.468906 es de: 159.44195652191237
+El precio del: ETH al 2021-10-17 17:31:59.672291 es de: 3808.501716734382
+{'ok': True, 'result': {'message_id': 54, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634509918, 'text': 'El precio del: ETH esta al alza con valor 3808.501716734382'}}
+El precio del: ADA al 2021-10-17 17:32:00.595024 es de: 2.14726589381861
+{'ok': True, 'result': {'message_id': 55, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634509920, 'text': 'El precio del: ADA esta a la baja con valor 2.14726589381861'}}
+El precio del: DOGE al 2021-10-17 18:31:29.956147 es de: 0.23792873042999
+El precio del: BTC al 2021-10-17 18:31:30.721790 es de: 61300.42837024525
+{'ok': True, 'result': {'message_id': 56, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634513491, 'text': 'El precio del: BTC esta al alza con valor 61300.42837024525'}}
+El precio del: SOL al 2021-10-17 18:31:31.924440 es de: 159.26078930041655
+El precio del: ETH al 2021-10-17 18:31:32.346439 es de: 3822.3056571221728
+{'ok': True, 'result': {'message_id': 57, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634513493, 'text': 'El precio del: ETH esta al alza con valor 3822.3056571221728'}}
+El precio del: ADA al 2021-10-17 18:31:33.421509 es de: 2.14880223862073
+{'ok': True, 'result': {'message_id': 58, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634513494, 'text': 'El precio del: ADA esta a la baja con valor 2.14880223862073'}}
+El precio del: DOGE al 2021-10-17 18:32:15.926655 es de: 0.23764156569299
+El precio del: BTC al 2021-10-17 18:32:16.129957 es de: 61270.89653065795
+{'ok': True, 'result': {'message_id': 59, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634513538, 'text': 'El precio del: BTC esta al alza con valor 61270.89653065795'}}
+El precio del: SOL al 2021-10-17 18:32:18.441689 es de: 159.26078930041655
+El precio del: ETH al 2021-10-17 18:32:18.863683 es de: 3822.3056571221728
+{'ok': True, 'result': {'message_id': 60, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634513539, 'text': 'El precio del: ETH esta al alza con valor 3822.3056571221728'}}
+El precio del: ADA al 2021-10-17 18:32:19.863245 es de: 2.14880223862073
+{'ok': True, 'result': {'message_id': 61, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634513540, 'text': 'El precio del: ADA esta a la baja con valor 2.14880223862073'}}
+El precio del: DOGE al 2021-10-17 18:41:11.701098 es de: 0.23782233960221
+El precio del: BTC al 2021-10-17 18:41:12.419816 es de: 61412.3845787997
+{'ok': True, 'result': {'message_id': 62, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634514073, 'text': 'El precio del: BTC esta al alza con valor 61412.3845787997'}}
+El precio del: SOL al 2021-10-17 18:41:13.357187 es de: 159.4311541933344
+El precio del: ETH al 2021-10-17 18:41:13.560040 es de: 3828.1168105084516
+{'ok': True, 'result': {'message_id': 63, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634514074, 'text': 'El precio del: ETH esta al alza con valor 3828.1168105084516'}}
+El precio del: ADA al 2021-10-17 18:41:14.695728 es de: 2.1470006503533
+{'ok': True, 'result': {'message_id': 64, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634514075, 'text': 'El precio del: ADA esta a la baja con valor 2.1470006503533'}}
+El precio del: DOGE al 2021-10-17 18:44:59.213433 es de: 0.23784555759343
+El precio del: BTC al 2021-10-17 18:45:00.595842 es de: 61505.62694825733
+{'ok': True, 'result': {'message_id': 65, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634514301, 'text': 'El precio del: BTC esta al alza con valor 61505.62694825733'}}
+El precio del: SOL al 2021-10-17 18:45:02.129919 es de: 159.422703172095
+El precio del: ETH al 2021-10-17 18:45:02.364279 es de: 3834.8721197524583
+{'ok': True, 'result': {'message_id': 66, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634514304, 'text': 'El precio del: ETH esta al alza con valor 3834.8721197524583'}}
+El precio del: ADA al 2021-10-17 18:45:04.340074 es de: 2.1521191361438
+{'ok': True, 'result': {'message_id': 67, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634514305, 'text': 'El precio del: ADA esta a la baja con valor 2.1521191361438'}}
+El precio del: DOGE al 2021-10-17 18:57:29.763561 es de: 0.23762506169733
+El precio del: BTC al 2021-10-17 18:57:30.075990 es de: 61640.37510539247
+{'ok': True, 'result': {'message_id': 68, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515051, 'text': 'El precio del: BTC esta al alza con valor 61640.37510539247'}}
+El precio del: SOL al 2021-10-17 18:57:31.605346 es de: 159.66363501942655
+El precio del: ETH al 2021-10-17 18:57:31.803175 es de: 3856.261908753584
+{'ok': True, 'result': {'message_id': 69, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515052, 'text': 'El precio del: ETH esta al alza con valor 3856.261908753584'}}
+El precio del: ADA al 2021-10-17 18:57:32.731076 es de: 2.15975986806266
+{'ok': True, 'result': {'message_id': 70, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515053, 'text': 'El precio del: ADA esta a la baja con valor 2.15975986806266'}}
+El precio del: DOGE al 2021-10-17 18:57:33.728298 es de: 0.23762506169733
+El precio del: BTC al 2021-10-17 18:57:33.947001 es de: 61640.37510539247
+{'ok': True, 'result': {'message_id': 71, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515054, 'text': 'El precio del: BTC esta al alza con valor 61640.37510539247'}}
+El precio del: SOL al 2021-10-17 18:57:34.868895 es de: 159.66363501942655
+El precio del: ETH al 2021-10-17 18:57:35.087472 es de: 3856.261908753584
+{'ok': True, 'result': {'message_id': 72, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515055, 'text': 'El precio del: ETH esta al alza con valor 3856.261908753584'}}
+El precio del: ADA al 2021-10-17 18:57:36.016645 es de: 2.15975986806266
+{'ok': True, 'result': {'message_id': 73, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515056, 'text': 'El precio del: ADA esta a la baja con valor 2.15975986806266'}}
+El precio del: DOGE al 2021-10-17 18:58:06.826031 es de: 0.23760759668851
+El precio del: BTC al 2021-10-17 18:58:07.060358 es de: 61581.85057122241
+{'ok': True, 'result': {'message_id': 74, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515089, 'text': 'El precio del: BTC esta al alza con valor 61581.85057122241'}}
+El precio del: SOL al 2021-10-17 18:58:09.325727 es de: 159.58595342717354
+El precio del: ETH al 2021-10-17 18:58:09.544156 es de: 3850.232147295474
+{'ok': True, 'result': {'message_id': 75, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515090, 'text': 'El precio del: ETH esta al alza con valor 3850.232147295474'}}
+El precio del: ADA al 2021-10-17 18:58:10.497300 es de: 2.15977133709434
+{'ok': True, 'result': {'message_id': 76, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515091, 'text': 'El precio del: ADA esta a la baja con valor 2.15977133709434'}}
+El precio del: DOGE al 2021-10-17 19:00:07.328412 es de: 0.23789763480121
+El precio del: BTC al 2021-10-17 19:00:08.406575 es de: 61553.61738469951
+{'ok': True, 'result': {'message_id': 77, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515210, 'text': 'El precio del: BTC esta al alza con valor 61553.61738469951'}}
+El precio del: SOL al 2021-10-17 19:00:10.437398 es de: 159.7437977507244
+El precio del: ETH al 2021-10-17 19:00:11.233907 es de: 3847.104595476458
+{'ok': True, 'result': {'message_id': 78, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515211, 'text': 'El precio del: ETH esta al alza con valor 3847.104595476458'}}
+El precio del: ADA al 2021-10-17 19:00:12.140151 es de: 2.15693393969046
+{'ok': True, 'result': {'message_id': 79, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634515212, 'text': 'El precio del: ADA esta a la baja con valor 2.15693393969046'}}
+El precio del: DOGE al 2021-10-17 19:20:12.408733 es de: 0.23810454318343
+El precio del: BTC al 2021-10-17 19:20:12.768240 es de: 61495.44606410736
+{'ok': True, 'result': {'message_id': 80, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634516413, 'text': 'El precio del: BTC esta al alza con valor 61495.44606410736'}}
+El precio del: SOL al 2021-10-17 19:20:13.711744 es de: 159.58034932234176
+El precio del: ETH al 2021-10-17 19:20:13.914662 es de: 3847.973892483963
+{'ok': True, 'result': {'message_id': 81, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634516414, 'text': 'El precio del: ETH esta al alza con valor 3847.973892483963'}}
+El precio del: ADA al 2021-10-17 19:20:15.003620 es de: 2.15493049865751
+{'ok': True, 'result': {'message_id': 82, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634516415, 'text': 'El precio del: ADA esta a la baja con valor 2.15493049865751'}}
+El precio del: DOGE al 2021-10-17 20:20:13.334609 es de: 0.2388366078529
+El precio del: BTC al 2021-10-17 20:20:21.470747 es de: 62317.536944482505
+El precio del: SOL al 2021-10-17 20:20:22.548703 es de: 160.61631819235689
+{'ok': True, 'result': {'message_id': 83, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634520024, 'text': 'El precio del: SOL esta al alza con valor 160.61631819235689'}}
+El precio del: ETH al 2021-10-17 20:20:24.595014 es de: 3869.103948382863
+{'ok': True, 'result': {'message_id': 84, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634520028, 'text': 'El precio del: ETH esta al alza con valor 3869.103948382863'}}
+El precio del: ADA al 2021-10-17 20:20:28.609995 es de: 2.14760070148344
+{'ok': True, 'result': {'message_id': 85, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634520029, 'text': 'El precio del: ADA esta a la baja con valor 2.14760070148344'}}
+El precio del: DOGE al 2021-10-17 21:20:13.468289 es de: 0.23895681568942
+El precio del: BTC al 2021-10-17 21:20:14.171234 es de: 62000.24237065748
+El precio del: SOL al 2021-10-17 21:20:14.640094 es de: 161.1911836021619
+{'ok': True, 'result': {'message_id': 86, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634523616, 'text': 'El precio del: SOL esta al alza con valor 161.1911836021619'}}
+El precio del: ETH al 2021-10-17 21:20:17.066204 es de: 3865.7243303814294
+El precio del: ADA al 2021-10-17 21:20:18.409477 es de: 2.15443335930495
+{'ok': True, 'result': {'message_id': 87, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634523619, 'text': 'El precio del: ADA esta a la baja con valor 2.15443335930495'}}
+El precio del: DOGE al 2021-10-17 22:20:14.002112 es de: 0.23922596477128
+El precio del: BTC al 2021-10-17 22:20:14.595814 es de: 62118.859631597334
+El precio del: SOL al 2021-10-17 22:20:14.799050 es de: 160.74030113550359
+{'ok': True, 'result': {'message_id': 88, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634527215, 'text': 'El precio del: SOL esta al alza con valor 160.74030113550359'}}
+El precio del: ETH al 2021-10-17 22:20:16.158166 es de: 3863.5875638830075
+El precio del: ADA al 2021-10-17 22:20:16.517146 es de: 2.15123984092573
+{'ok': True, 'result': {'message_id': 89, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634527217, 'text': 'El precio del: ADA esta a la baja con valor 2.15123984092573'}}
+El precio del: DOGE al 2021-10-17 23:20:13.093547 es de: 0.23910087542047
+El precio del: BTC al 2021-10-17 23:20:13.921614 es de: 62079.7490525624
+El precio del: SOL al 2021-10-17 23:20:14.124847 es de: 159.9265730938821
+El precio del: ETH al 2021-10-17 23:20:14.327636 es de: 3853.0354491546123
+El precio del: ADA al 2021-10-17 23:20:14.515369 es de: 2.14341166521785
+{'ok': True, 'result': {'message_id': 90, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634530815, 'text': 'El precio del: ADA esta a la baja con valor 2.14341166521785'}}
+El precio del: DOGE al 2021-10-18 00:20:12.996523 es de: 0.23940596084212
+El precio del: BTC al 2021-10-18 00:20:13.699839 es de: 62269.71426477909
+El precio del: SOL al 2021-10-18 00:20:13.918536 es de: 160.0156529680659
+{'ok': True, 'result': {'message_id': 91, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634534414, 'text': 'El precio del: SOL esta al alza con valor 160.0156529680659'}}
+El precio del: ETH al 2021-10-18 00:20:15.121215 es de: 3859.686161604712
+El precio del: ADA al 2021-10-18 00:20:15.574401 es de: 2.15216285479927
+{'ok': True, 'result': {'message_id': 92, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634534416, 'text': 'El precio del: ADA esta a la baja con valor 2.15216285479927'}}
+El precio del: DOGE al 2021-10-18 01:20:13.202071 es de: 0.24031197556177
+El precio del: BTC al 2021-10-18 01:20:13.871585 es de: 62334.45998474828
+El precio del: SOL al 2021-10-18 01:20:14.090284 es de: 160.68884998154428
+{'ok': True, 'result': {'message_id': 93, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634538014, 'text': 'El precio del: SOL esta al alza con valor 160.68884998154428'}}
+El precio del: ETH al 2021-10-18 01:20:15.230850 es de: 3877.3486217295153
+El precio del: ADA al 2021-10-18 01:20:15.512104 es de: 2.15515299328193
+{'ok': True, 'result': {'message_id': 94, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634538017, 'text': 'El precio del: ADA esta a la baja con valor 2.15515299328193'}}
+El precio del: DOGE al 2021-10-18 02:20:13.006914 es de: 0.24160086807031
+El precio del: BTC al 2021-10-18 02:20:13.460045 es de: 62479.49829667779
+El precio del: SOL al 2021-10-18 02:20:13.897661 es de: 160.93498312238353
+{'ok': True, 'result': {'message_id': 95, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634541614, 'text': 'El precio del: SOL esta al alza con valor 160.93498312238353'}}
+El precio del: ETH al 2021-10-18 02:20:14.803341 es de: 3871.3072955442644
+El precio del: ADA al 2021-10-18 02:20:14.975457 es de: 2.15850681414447
+{'ok': True, 'result': {'message_id': 96, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634541615, 'text': 'El precio del: ADA esta a la baja con valor 2.15850681414447'}}
+El precio del: DOGE al 2021-10-18 03:20:13.028309 es de: 0.24398948784983
+El precio del: BTC al 2021-10-18 03:20:13.278452 es de: 61886.46965331516
+El precio del: SOL al 2021-10-18 03:20:13.450357 es de: 159.029033013503
+El precio del: ETH al 2021-10-18 03:20:13.653406 es de: 3828.5888583052415
+El precio del: ADA al 2021-10-18 03:20:13.840610 es de: 2.14835770659812
+{'ok': True, 'result': {'message_id': 97, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634545214, 'text': 'El precio del: ADA esta a la baja con valor 2.14835770659812'}}
+El precio del: DOGE al 2021-10-18 04:20:13.608102 es de: 0.261445382275
+El precio del: BTC al 2021-10-18 04:20:14.061451 es de: 62026.919271560604
+El precio del: SOL al 2021-10-18 04:20:14.264512 es de: 158.04590294773328
+El precio del: ETH al 2021-10-18 04:20:14.485742 es de: 3832.181167841052
+El precio del: ADA al 2021-10-18 04:20:14.673594 es de: 2.14999932142081
+{'ok': True, 'result': {'message_id': 98, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634548815, 'text': 'El precio del: ADA esta a la baja con valor 2.14999932142081'}}
+El precio del: DOGE al 2021-10-18 05:20:13.013021 es de: 0.27139399945818
+{'ok': True, 'result': {'message_id': 99, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634552413, 'text': 'El precio del: DOGE esta al alza con valor 0.27139399945818'}}
+El precio del: BTC al 2021-10-18 05:20:14.075262 es de: 60779.80101788148
+El precio del: SOL al 2021-10-18 05:20:14.272788 es de: 156.3442361864673
+El precio del: ETH al 2021-10-18 05:20:14.488903 es de: 3765.364341109366
+{'ok': True, 'result': {'message_id': 100, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634552415, 'text': 'El precio del: ETH esta a la baja con valor 3765.364341109366'}}
+El precio del: ADA al 2021-10-18 05:20:15.348275 es de: 2.13090067739471
+{'ok': True, 'result': {'message_id': 101, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634552415, 'text': 'El precio del: ADA esta a la baja con valor 2.13090067739471'}}
+El precio del: DOGE al 2021-10-18 06:20:13.097828 es de: 0.257718668463
+El precio del: BTC al 2021-10-18 06:20:13.488362 es de: 61373.710122163895
+El precio del: SOL al 2021-10-18 06:20:13.957203 es de: 158.11350506105924
+El precio del: ETH al 2021-10-18 06:20:14.254062 es de: 3780.542731795111
+{'ok': True, 'result': {'message_id': 102, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634556014, 'text': 'El precio del: ETH esta a la baja con valor 3780.542731795111'}}
+El precio del: ADA al 2021-10-18 06:20:15.222331 es de: 2.13847470583086
+{'ok': True, 'result': {'message_id': 103, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634556016, 'text': 'El precio del: ADA esta a la baja con valor 2.13847470583086'}}
+El precio del: DOGE al 2021-10-18 07:20:13.102942 es de: 0.25658168008265
+El precio del: BTC al 2021-10-18 07:20:13.415667 es de: 61096.121239861335
+El precio del: SOL al 2021-10-18 07:20:13.603170 es de: 157.4736755300081
+El precio del: ETH al 2021-10-18 07:20:14.087355 es de: 3749.079628409135
+{'ok': True, 'result': {'message_id': 104, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634559614, 'text': 'El precio del: ETH esta a la baja con valor 3749.079628409135'}}
+El precio del: ADA al 2021-10-18 07:20:15.039986 es de: 2.12895451792428
+{'ok': True, 'result': {'message_id': 105, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634559615, 'text': 'El precio del: ADA esta a la baja con valor 2.12895451792428'}}
+El precio del: DOGE al 2021-10-18 10:35:02.122465 es de: 0.25068845859939
+El precio del: BTC al 2021-10-18 10:35:02.847345 es de: 61847.04541679238
+El precio del: SOL al 2021-10-18 10:35:03.517836 es de: 157.09161001250453
+El precio del: ETH al 2021-10-18 10:35:04.176377 es de: 3751.6616513002054
+{'ok': True, 'result': {'message_id': 106, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634571305, 'text': 'El precio del: ETH esta a la baja con valor 3751.6616513002054'}}
+El precio del: ADA al 2021-10-18 10:35:05.865113 es de: 2.1270521003834
+{'ok': True, 'result': {'message_id': 107, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634571307, 'text': 'El precio del: ADA esta a la baja con valor 2.1270521003834'}}
+El precio del: DOGE al 2021-10-18 11:25:47.165023 es de: 0.25829217015637
+El precio del: BTC al 2021-10-18 11:25:48.185716 es de: 62105.73568762031
+El precio del: SOL al 2021-10-18 11:25:48.718034 es de: 156.9192720133762
+El precio del: ETH al 2021-10-18 11:25:49.299823 es de: 3762.8122849328543
+{'ok': True, 'result': {'message_id': 108, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634574350, 'text': 'El precio del: ETH esta a la baja con valor 3762.8122849328543'}}
+El precio del: ADA al 2021-10-18 11:25:50.970671 es de: 2.13023070430696
+{'ok': True, 'result': {'message_id': 109, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634574352, 'text': 'El precio del: ADA esta a la baja con valor 2.13023070430696'}}
+El precio del: DOGE al 2021-10-18 12:17:44.645583 es de: 0.25699358641729
+El precio del: BTC al 2021-10-18 12:17:45.801733 es de: 61863.79671983228
+El precio del: SOL al 2021-10-18 12:17:46.481613 es de: 157.02124878026117
+El precio del: ETH al 2021-10-18 12:17:47.036294 es de: 3738.16715333277
+{'ok': True, 'result': {'message_id': 110, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634577468, 'text': 'El precio del: ETH esta a la baja con valor 3738.16715333277'}}
+El precio del: ADA al 2021-10-18 12:17:48.741611 es de: 2.11876467910397
+{'ok': True, 'result': {'message_id': 111, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634577470, 'text': 'El precio del: ADA esta a la baja con valor 2.11876467910397'}}
+El precio del: DOGE al 2021-10-18 13:43:22.275039 es de: 0.25496530281162
+El precio del: BTC al 2021-10-18 13:43:23.311865 es de: 61970.69119285105
+El precio del: SOL al 2021-10-18 13:43:23.997329 es de: 156.78842932797244
+El precio del: ETH al 2021-10-18 13:43:24.580880 es de: 3740.7957082664684
+{'ok': True, 'result': {'message_id': 112, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634582605, 'text': 'El precio del: ETH esta a la baja con valor 3740.7957082664684'}}
+El precio del: ADA al 2021-10-18 13:43:26.148608 es de: 2.12209260508899
+{'ok': True, 'result': {'message_id': 113, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634582606, 'text': 'El precio del: ADA esta a la baja con valor 2.12209260508899'}}
+El precio del: DOGE al 2021-10-18 14:23:02.180720 es de: 0.25286686628363
+El precio del: BTC al 2021-10-18 14:23:02.936812 es de: 61329.1651031856
+El precio del: SOL al 2021-10-18 14:23:03.601110 es de: 156.78691097239258
+El precio del: ETH al 2021-10-18 14:23:04.254633 es de: 3723.195723666665
+{'ok': True, 'result': {'message_id': 114, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634584985, 'text': 'El precio del: ETH esta a la baja con valor 3723.195723666665'}}
+El precio del: ADA al 2021-10-18 14:23:05.988716 es de: 2.12841980891632
+{'ok': True, 'result': {'message_id': 115, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634584986, 'text': 'El precio del: ADA esta a la baja con valor 2.12841980891632'}}
+El precio del: DOGE al 2021-10-18 14:40:12.393069 es de: 0.25253678354379
+El precio del: BTC al 2021-10-18 14:40:13.061036 es de: 61340.59777477146
+El precio del: SOL al 2021-10-18 14:40:13.974210 es de: 156.14702412768736
+El precio del: ETH al 2021-10-18 14:40:14.491015 es de: 3725.3419600466987
+{'ok': True, 'result': {'message_id': 116, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634586015, 'text': 'El precio del: ETH esta a la baja con valor 3725.3419600466987'}}
+El precio del: ADA al 2021-10-18 14:40:16.079327 es de: 2.12579527714479
+{'ok': True, 'result': {'message_id': 117, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634586016, 'text': 'El precio del: ADA esta a la baja con valor 2.12579527714479'}}
+El precio del: DOGE al 2021-10-18 15:40:12.902583 es de: 0.25201262250862
+El precio del: BTC al 2021-10-18 15:40:13.597619 es de: 61313.04412634152
+El precio del: SOL al 2021-10-18 15:40:14.121475 es de: 157.27960851455947
+El precio del: ETH al 2021-10-18 15:40:14.607157 es de: 3746.6563228581713
+{'ok': True, 'result': {'message_id': 118, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634589615, 'text': 'El precio del: ETH esta a la baja con valor 3746.6563228581713'}}
+El precio del: ADA al 2021-10-18 15:40:16.291764 es de: 2.1374997729196
+{'ok': True, 'result': {'message_id': 119, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634589616, 'text': 'El precio del: ADA esta a la baja con valor 2.1374997729196'}}
+El precio del: DOGE al 2021-10-18 16:40:13.256466 es de: 0.24791401948529
+El precio del: BTC al 2021-10-18 16:40:13.973889 es de: 61712.31607769366
+El precio del: SOL al 2021-10-18 16:40:14.528138 es de: 157.09086543235475
+El precio del: ETH al 2021-10-18 16:40:15.113969 es de: 3752.1992004975245
+{'ok': True, 'result': {'message_id': 120, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634593215, 'text': 'El precio del: ETH esta a la baja con valor 3752.1992004975245'}}
+El precio del: ADA al 2021-10-18 16:40:16.579185 es de: 2.13574785331307
+{'ok': True, 'result': {'message_id': 121, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634593217, 'text': 'El precio del: ADA esta a la baja con valor 2.13574785331307'}}
+El precio del: DOGE al 2021-10-18 18:00:52.454970 es de: 0.24730009879059
+El precio del: BTC al 2021-10-18 18:00:54.043428 es de: 62103.177512664806
+El precio del: SOL al 2021-10-18 18:00:54.861148 es de: 156.6003737294569
+El precio del: ETH al 2021-10-18 18:00:55.377973 es de: 3749.2540724283836
+{'ok': True, 'result': {'message_id': 122, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634598056, 'text': 'El precio del: ETH esta a la baja con valor 3749.2540724283836', 'entities': []}}
+El precio del: ADA al 2021-10-18 18:00:56.929387 es de: 2.13684713475103
+{'ok': True, 'result': {'message_id': 123, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634598057, 'text': 'El precio del: ADA esta a la baja con valor 2.13684713475103'}}
+El precio del: DOGE al 2021-10-18 21:02:53.991167 es de: 0.24677376885147
+El precio del: BTC al 2021-10-18 21:02:55.063032 es de: 61871.020989967
+El precio del: SOL al 2021-10-18 21:02:55.691002 es de: 157.50853043574557
+El precio del: ETH al 2021-10-18 21:02:56.285239 es de: 3794.226057279589
+El precio del: ADA al 2021-10-18 21:02:56.901449 es de: 2.13164164591404
+{'ok': True, 'result': {'message_id': 124, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634608978, 'text': 'El precio del: ADA esta a la baja con valor 2.13164164591404'}}
+El precio del: DOGE al 2021-10-19 00:16:20.378301 es de: 0.25041017219844
+El precio del: BTC al 2021-10-19 00:16:21.223557 es de: 62461.41855381714
+El precio del: SOL al 2021-10-19 00:16:21.856771 es de: 158.68033714027376
+El precio del: ETH al 2021-10-19 00:16:22.385524 es de: 3819.2886857706458
+El precio del: ADA al 2021-10-19 00:16:23.104626 es de: 2.12731405088184
+{'ok': True, 'result': {'message_id': 125, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634620584, 'text': 'El precio del: ADA esta a la baja con valor 2.12731405088184'}}
+El precio del: DOGE al 2021-10-19 13:45:33.768325 es de: 0.24365931082266
+El precio del: BTC al 2021-10-19 13:45:40.237416 es de: 63475.410982411595
+{'ok': True, 'result': {'message_id': 126, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634669140, 'text': 'El precio del: BTC esta al alza con valor 63475.410982411595'}}
+El precio del: SOL al 2021-10-19 13:45:41.855933 es de: 156.11759956699174
+El precio del: ETH al 2021-10-19 13:45:42.388431 es de: 3810.0671957665836
+El precio del: ADA al 2021-10-19 13:45:42.989956 es de: 2.1182130844723
+{'ok': True, 'result': {'message_id': 127, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634669143, 'text': 'El precio del: ADA esta a la baja con valor 2.1182130844723'}}
+El precio del: DOGE al 2021-10-19 14:40:14.010990 es de: 0.24157123513291
+El precio del: BTC al 2021-10-19 14:40:17.455874 es de: 63961.8249989097
+{'ok': True, 'result': {'message_id': 128, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634672418, 'text': 'El precio del: BTC esta al alza con valor 63961.8249989097'}}
+El precio del: SOL al 2021-10-19 14:40:19.338183 es de: 155.8286508529583
+El precio del: ETH al 2021-10-19 14:40:20.008371 es de: 3827.3852511396894
+El precio del: ADA al 2021-10-19 14:40:20.709893 es de: 2.10928003232219
+{'ok': True, 'result': {'message_id': 129, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634672421, 'text': 'El precio del: ADA esta a la baja con valor 2.10928003232219'}}
+El precio del: DOGE al 2021-10-19 15:41:16.070575 es de: 0.24370021663269
+El precio del: BTC al 2021-10-19 15:41:17.411251 es de: 64296.60851549925
+{'ok': True, 'result': {'message_id': 130, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634676078, 'text': 'El precio del: BTC esta al alza con valor 64296.60851549925'}}
+El precio del: SOL al 2021-10-19 15:41:18.862374 es de: 153.635321485524
+El precio del: ETH al 2021-10-19 15:41:19.432603 es de: 3818.5401370384993
+El precio del: ADA al 2021-10-19 15:41:19.933476 es de: 2.10051625678422
+{'ok': True, 'result': {'message_id': 131, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634676080, 'text': 'El precio del: ADA esta a la baja con valor 2.10051625678422'}}
+El precio del: DOGE al 2021-10-19 16:40:12.892589 es de: 0.2444143862805
+El precio del: BTC al 2021-10-19 16:40:13.695208 es de: 63944.00287250498
+{'ok': True, 'result': {'message_id': 132, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634679614, 'text': 'El precio del: BTC esta al alza con valor 63944.00287250498'}}
+El precio del: SOL al 2021-10-19 16:40:15.347036 es de: 154.86288482813447
+El precio del: ETH al 2021-10-19 16:40:15.963857 es de: 3819.5397007170654
+El precio del: ADA al 2021-10-19 16:40:16.565147 es de: 2.10303376814272
+{'ok': True, 'result': {'message_id': 133, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1634679617, 'text': 'El precio del: ADA esta a la baja con valor 2.10303376814272'}}
+El precio del: DOGE al 2021-10-23 22:34:07.755102 es de: 0.25054080392454
+El precio del: BTC al 2021-10-23 22:34:08.398914 es de: 61260.069894725595
+El precio del: SOL al 2021-10-23 22:34:08.663954 es de: 197.2740461154745
+{'ok': True, 'result': {'message_id': 134, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635046449, 'text': 'El precio del: SOL esta al alza con valor 197.2740461154745'}}
+El precio del: ETH al 2021-10-23 22:34:09.769614 es de: 4141.67051186174
+{'ok': True, 'result': {'message_id': 135, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635046450, 'text': 'El precio del: ETH esta al alza con valor 4141.67051186174'}}
+El precio del: ADA al 2021-10-23 22:34:10.753660 es de: 2.15938446147019
+{'ok': True, 'result': {'message_id': 136, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635046451, 'text': 'El precio del: ADA esta a la baja con valor 2.15938446147019'}}
+El precio del: DOGE al 2021-10-26 22:21:25.577601 es de: 0.25918416340549
+El precio del: BTC al 2021-10-26 22:21:26.460668 es de: 60762.7513865082
+El precio del: SOL al 2021-10-26 22:21:26.661419 es de: 203.30228665753106
+{'ok': True, 'result': {'message_id': 137, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635304887, 'text': 'El precio del: SOL esta al alza con valor 203.30228665753106'}}
+El precio del: ETH al 2021-10-26 22:21:28.396578 es de: 4215.929275124008
+{'ok': True, 'result': {'message_id': 138, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635304888, 'text': 'El precio del: ETH esta al alza con valor 4215.929275124008'}}
+El precio del: ADA al 2021-10-26 22:21:29.471989 es de: 2.14713739284093
+{'ok': True, 'result': {'message_id': 139, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635304889, 'text': 'El precio del: ADA esta a la baja con valor 2.14713739284093'}}
+El precio del: DOGE al 2021-10-27 07:46:54.626666 es de: 0.23913020360937
+El precio del: BTC al 2021-10-27 07:46:55.127650 es de: 58843.46495469347
+El precio del: DOGE al 2021-10-27 07:47:01.539180 es de: 0.23913020360937
+El precio del: BTC al 2021-10-27 07:47:01.791858 es de: 58843.46495469347
+El precio del: SOL al 2021-10-27 07:47:02.067688 es de: 190.82791429895144
+{'ok': True, 'result': {'message_id': 140, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635338822, 'text': 'El precio del: SOL esta a la baja con valor 190.82791429895144'}}
+El precio del: ETH al 2021-10-27 07:47:03.075623 es de: 4003.1228142804994
+El precio del: ADA al 2021-10-27 07:47:03.539616 es de: 2.00335912849442
+{'ok': True, 'result': {'message_id': 141, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635338823, 'text': 'El precio del: ADA esta a la baja con valor 2.00335912849442'}}
+El precio del: DOGE al 2021-10-29 13:33:25.946579 es de: 0.2898588242362
+{'ok': True, 'result': {'message_id': 142, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635532408, 'text': 'El precio del: DOGE esta al alza con valor 0.2898588242362'}}
+El precio del: BTC al 2021-10-29 13:33:29.131892 es de: 62227.02494989782
+El precio del: SOL al 2021-10-29 13:33:29.726646 es de: 201.99298988529978
+El precio del: ETH al 2021-10-29 13:33:30.371967 es de: 4396.466221193544
+El precio del: ADA al 2021-10-29 13:33:30.986566 es de: 2.01454247927354
+{'ok': True, 'result': {'message_id': 143, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635532411, 'text': 'El precio del: ADA esta a la baja con valor 2.01454247927354'}}
+El precio del: DOGE al 2021-10-29 14:57:13.396926 es de: 0.29121176681916
+{'ok': True, 'result': {'message_id': 144, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635537441, 'text': 'El precio del: DOGE esta al alza con valor 0.29121176681916'}}
+El precio del: BTC al 2021-10-29 14:57:22.178979 es de: 62405.91568025262
+El precio del: SOL al 2021-10-29 14:57:23.451518 es de: 200.4819209042547
+El precio del: ETH al 2021-10-29 14:57:24.156333 es de: 4394.7787103743985
+El precio del: ADA al 2021-10-29 14:57:24.741702 es de: 2.01168244365721
+{'ok': True, 'result': {'message_id': 145, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635537445, 'text': 'El precio del: ADA esta a la baja con valor 2.01168244365721'}}
+El precio del: DOGE al 2021-10-29 15:57:06.583781 es de: 0.29349804196251
+{'ok': True, 'result': {'message_id': 146, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635541028, 'text': 'El precio del: DOGE esta al alza con valor 0.29349804196251'}}
+El precio del: BTC al 2021-10-29 15:57:09.204358 es de: 62383.18036757456
+El precio del: SOL al 2021-10-29 15:57:09.773912 es de: 202.4514773591186
+El precio del: ETH al 2021-10-29 15:57:10.653469 es de: 4406.10007955348
+El precio del: ADA al 2021-10-29 15:57:11.252906 es de: 2.00609602291077
+{'ok': True, 'result': {'message_id': 147, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635541031, 'text': 'El precio del: ADA esta a la baja con valor 2.00609602291077', 'entities': [{'offset': 46, 'length': 14, 'type': 'phone_number'}]}}
+El precio del: DOGE al 2021-10-31 13:15:06.320176 es de: 0.25954650705861
+El precio del: BTC al 2021-10-31 13:15:07.039115 es de: 60601.28065974811
+El precio del: SOL al 2021-10-31 13:15:07.319531 es de: 195.46131639718726
+{'ok': True, 'result': {'message_id': 148, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635704107, 'text': 'El precio del: SOL esta a la baja con valor 195.46131639718726'}}
+El precio del: ETH al 2021-10-31 13:15:08.608033 es de: 4232.056286268874
+El precio del: ADA al 2021-10-31 13:15:09.113448 es de: 1.95251105206718
+{'ok': True, 'result': {'message_id': 149, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635704109, 'text': 'El precio del: ADA esta a la baja con valor 1.95251105206718'}}
+El precio del: DOGE al 2021-10-31 13:56:38.328642 es de: 0.27398763002688
+El precio del: BTC al 2021-10-31 13:56:39.314373 es de: 60756.43808687565
+El precio del: SOL al 2021-10-31 13:56:39.685230 es de: 196.5408521851863
+{'ok': True, 'result': {'message_id': 150, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635706601, 'text': 'El precio del: SOL esta a la baja con valor 196.5408521851863'}}
+El precio del: ETH al 2021-10-31 13:56:43.315196 es de: 4247.907347541489
+El precio del: ADA al 2021-10-31 13:56:44.715255 es de: 1.96085129064447
+{'ok': True, 'result': {'message_id': 151, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635706605, 'text': 'El precio del: ADA esta a la baja con valor 1.96085129064447'}}
+El precio del: SHIB al 2021-10-31 13:56:45.876378 es de: 6.515547314e-05
+El precio del: DOGE al 2021-10-31 13:56:57.931611 es de: 0.27398763002688
+El precio del: BTC al 2021-10-31 13:56:58.800939 es de: 60756.43808687565
+El precio del: SOL al 2021-10-31 13:56:59.116225 es de: 196.5408521851863
+{'ok': True, 'result': {'message_id': 152, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635706619, 'text': 'El precio del: SOL esta a la baja con valor 196.5408521851863'}}
+El precio del: ETH al 2021-10-31 13:57:00.329174 es de: 4247.907347541489
+El precio del: ADA al 2021-10-31 13:57:00.561619 es de: 1.96085129064447
+{'ok': True, 'result': {'message_id': 153, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635706620, 'text': 'El precio del: ADA esta a la baja con valor 1.96085129064447'}}
+El precio del: SHIB al 2021-10-31 13:57:01.566240 es de: 6.515547314e-05
+El precio del: DOGE al 2021-10-31 13:57:34.972500 es de: 0.27398763002688
+El precio del: BTC al 2021-10-31 13:57:39.114954 es de: 60756.43808687565
+El precio del: SOL al 2021-10-31 13:57:39.929816 es de: 196.5408521851863
+{'ok': True, 'result': {'message_id': 154, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635706661, 'text': 'El precio del: SOL esta a la baja con valor 196.5408521851863'}}
+El precio del: ETH al 2021-10-31 13:57:42.392719 es de: 4249.113194056311
+El precio del: ADA al 2021-10-31 13:57:43.079692 es de: 1.95829331123254
+{'ok': True, 'result': {'message_id': 155, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635706665, 'text': 'El precio del: ADA esta a la baja con valor 1.95829331123254'}}
+El precio del: SHIB al 2021-10-31 13:57:45.645980 es de: 6.515547314e-05
+{'ok': True, 'result': {'message_id': 156, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635706666, 'text': 'El precio del: SHIB esta a la baja con valor 6.515547314e-05'}}
+El precio del: DOGE al 2021-10-31 14:13:24.979822 es de: 0.26896454504161
+El precio del: BTC al 2021-10-31 14:13:25.533078 es de: 60766.35326649061
+El precio del: SOL al 2021-10-31 14:13:25.808240 es de: 196.97309984428
+{'ok': True, 'result': {'message_id': 157, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635707606, 'text': 'El precio del: SOL esta a la baja con valor 196.97309984428'}}
+El precio del: ETH al 2021-10-31 14:13:26.989903 es de: 4255.698110047166
+El precio del: ADA al 2021-10-31 14:13:27.544399 es de: 1.96194574762578
+{'ok': True, 'result': {'message_id': 158, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635707607, 'text': 'El precio del: ADA esta a la baja con valor 1.96194574762578'}}
+El precio del: SHIB al 2021-10-31 14:13:28.493388 es de: 6.447225463e-05
+{'ok': True, 'result': {'message_id': 159, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635707608, 'text': 'El precio del: SHIB esta a la baja con valor 6.447225463e-05'}}
+El precio del: DOGE al 2021-10-31 14:22:40.579332 es de: 0.27100522633955
+El precio del: BTC al 2021-10-31 14:22:41.059460 es de: 60805.541141788264
+El precio del: ETH al 2021-10-31 14:22:41.372273 es de: 4258.232797498418
+El precio del: ADA al 2021-10-31 14:22:41.608160 es de: 1.96132661623017
+{'ok': True, 'result': {'message_id': 160, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635708162, 'text': 'El precio del: ADA esta a la baja con valor 1.96132661623017'}}
+El precio del: SHIB al 2021-10-31 14:22:42.709226 es de: 6.479370779e-05
+{'ok': True, 'result': {'message_id': 161, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635708163, 'text': 'El precio del: SHIB esta a la baja con valor 6.479370779e-05'}}
+El precio del: DOGE al 2021-10-31 14:26:29.659740 es de: 0.27088422980967
+El precio del: BTC al 2021-10-31 14:26:29.993656 es de: 60800.63525057411
+El precio del: ETH al 2021-10-31 14:26:30.301366 es de: 4259.00762536763
+El precio del: ADA al 2021-10-31 14:26:30.549305 es de: 1.96067572236553
+{'ok': True, 'result': {'message_id': 162, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635708391, 'text': 'El precio del: ADA esta a la baja con valor 1.96067572236553'}}
+El precio del: SHIB al 2021-10-31 14:26:31.817795 es de: 6.483054362e-05
+{'ok': True, 'result': {'message_id': 163, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635708392, 'text': 'El precio del: SHIB esta a la baja con valor 6.483054362e-05'}}
+El precio del: DOGE al 2021-10-31 17:07:16.121342 es de: 0.27836969554428
+El precio del: BTC al 2021-10-31 17:07:17.144956 es de: 61475.03774597167
+El precio del: ETH al 2021-10-31 17:07:17.376688 es de: 4308.269575557559
+El precio del: ADA al 2021-10-31 17:07:17.624286 es de: 1.9788897322422
+{'ok': True, 'result': {'message_id': 164, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635718038, 'text': 'El precio del: ADA esta a la baja con valor 1.9788897322422'}}
+El precio del: SHIB al 2021-10-31 17:07:19.226969 es de: 6.515325851e-05
+{'ok': True, 'result': {'message_id': 165, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635718039, 'text': 'El precio del: SHIB esta a la baja con valor 6.515325851e-05'}}
+El precio del: DOGE al 2021-10-31 17:57:06.582476 es de: 0.27782708367472
+El precio del: BTC al 2021-10-31 17:57:07.316679 es de: 61434.577153584774
+El precio del: ETH al 2021-10-31 17:57:07.520046 es de: 4297.727717234486
+El precio del: ADA al 2021-10-31 17:57:07.754077 es de: 1.97156757873513
+{'ok': True, 'result': {'message_id': 166, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635721028, 'text': 'El precio del: ADA esta a la baja con valor 1.97156757873513'}}
+El precio del: SHIB al 2021-10-31 17:57:09.113538 es de: 6.688286722e-05
+El precio del: DOGE al 2021-10-31 18:07:09.963769 es de: 0.281190214962
+El precio del: BTC al 2021-10-31 18:07:10.510531 es de: 61355.85841028666
+El precio del: ETH al 2021-10-31 18:07:10.698103 es de: 4284.565697499232
+El precio del: ADA al 2021-10-31 18:07:10.932501 es de: 1.96984779875047
+{'ok': True, 'result': {'message_id': 167, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635721631, 'text': 'El precio del: ADA esta a la baja con valor 1.96984779875047'}}
+El precio del: SHIB al 2021-10-31 18:07:12.104191 es de: 6.645584626e-05
+El precio del: DOGE al 2021-10-31 18:57:06.552465 es de: 0.28031220026167
+El precio del: BTC al 2021-10-31 18:57:07.052626 es de: 61370.99531399356
+El precio del: ETH al 2021-10-31 18:57:07.286669 es de: 4294.26262130849
+El precio del: ADA al 2021-10-31 18:57:07.521002 es de: 1.96393038089737
+{'ok': True, 'result': {'message_id': 168, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635724627, 'text': 'El precio del: ADA esta a la baja con valor 1.96393038089737'}}
+El precio del: SHIB al 2021-10-31 18:57:08.536604 es de: 6.724692048e-05
+El precio del: DOGE al 2021-10-31 19:07:09.692817 es de: 0.27533982130003
+El precio del: BTC al 2021-10-31 19:07:10.458435 es de: 61313.55770808743
+El precio del: ETH al 2021-10-31 19:07:10.677221 es de: 4297.054485632715
+El precio del: ADA al 2021-10-31 19:07:10.927180 es de: 1.96123210368254
+{'ok': True, 'result': {'message_id': 169, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635725231, 'text': 'El precio del: ADA esta a la baja con valor 1.96123210368254'}}
+El precio del: SHIB al 2021-10-31 19:07:11.958043 es de: 6.673450175e-05
