@@ -27,7 +27,7 @@ def extractCryptoPrice(criptoCoin):
     }
     headers = {
         'Accepts': 'application/json',
-        'X-CMC_PRO_API_KEY': 'c4c789cc-27b9-4e2e-8cf6-52755d329b02',
+        'X-CMC_PRO_API_KEY': 'YOUR_COINBASE_API_KEY',
     }
 
     session = Session()

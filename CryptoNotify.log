@@ -554,3 +554,149 @@ El precio del: ETH al 2021-10-31 19:07:10.677221 es de: 4297.054485632715
 El precio del: ADA al 2021-10-31 19:07:10.927180 es de: 1.96123210368254
 {'ok': True, 'result': {'message_id': 169, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635725231, 'text': 'El precio del: ADA esta a la baja con valor 1.96123210368254'}}
 El precio del: SHIB al 2021-10-31 19:07:11.958043 es de: 6.673450175e-05
+El precio del: DOGE al 2021-10-31 20:52:22.603900 es de: 0.27514636794048
+El precio del: BTC al 2021-10-31 20:52:23.292725 es de: 61447.63671886069
+El precio del: ETH al 2021-10-31 20:52:23.542980 es de: 4302.704645989505
+El precio del: ADA al 2021-10-31 20:52:23.800725 es de: 1.96089359573471
+{'ok': False, 'error_code': 404, 'description': 'Not Found'}
+El precio del: SHIB al 2021-10-31 20:52:24.731868 es de: 7.006368917e-05
+El precio del: DOGE al 2021-11-01 19:49:41.914768 es de: 0.26925855936679
+El precio del: DOGE al 2021-11-01 19:50:06.240764 es de: 0.26925855936679
+El precio del: DOGE al 2021-11-01 19:50:55.349638 es de: 0.26868918771604
+El precio del: BTC al 2021-11-01 19:50:56.382318 es de: 60848.54208060828
+El precio del: ETH al 2021-11-01 19:50:56.879876 es de: 4304.049550131491
+El precio del: ADA al 2021-11-01 19:50:58.948401 es de: 1.94038076599122
+El precio del: SHIB al 2021-11-01 19:51:06.067895 es de: 7.018411959e-05
+El precio del: DOGE al 2021-11-01 19:51:47.605882 es de: 0.26896158907798
+El precio del: BTC al 2021-11-01 19:51:48.427299 es de: 60859.06239320368
+El precio del: ETH al 2021-11-01 19:51:49.193587 es de: 4303.138413777567
+El precio del: DOGE al 2021-11-01 19:51:56.809250 es de: 0.26896158907798
+El precio del: DOGE al 2021-11-01 19:52:24.432574 es de: 0.26896158907798
+El precio del: DOGE al 2021-11-01 19:53:31.698919 es de: 0.26866869735189
+El precio del: BTC al 2021-11-01 19:53:32.832564 es de: 60812.20514911404
+El precio del: ETH al 2021-11-01 19:53:33.612922 es de: 4296.44789652389
+El precio del: ADA al 2021-11-01 19:53:34.417745 es de: 1.94038578975339
+El precio del: SHIB al 2021-11-01 19:53:35.635922 es de: 7.020461138e-05
+El precio del: DOGE al 2021-11-01 19:55:50.863619 es de: 0.26886108940057
+El precio del: BTC al 2021-11-01 19:55:51.902552 es de: 60844.49189021082
+El precio del: DOGE al 2021-11-01 19:56:16.768717 es de: 0.26886108940057
+El precio del: BTC al 2021-11-01 19:56:17.524225 es de: 60844.49189021082
+El precio del: ETH al 2021-11-01 19:56:18.401627 es de: 4303.125297495449
+El precio del: ADA al 2021-11-01 19:56:21.517792 es de: 1.93691302095156
+El precio del: SHIB al 2021-11-01 19:56:22.481922 es de: 7.033209662e-05
+El precio del: DOGE al 2021-11-01 19:57:00.620637 es de: 0.26905735490296
+El precio del: BTC al 2021-11-01 19:57:06.647100 es de: 60884.95484330649
+El precio del: ETH al 2021-11-01 19:57:07.406732 es de: 4306.743342576622
+El precio del: ADA al 2021-11-01 19:57:12.681586 es de: 1.93836262250289
+El precio del: SHIB al 2021-11-01 19:57:13.759530 es de: 7.042333304e-05
+El precio del: DOGE al 2021-11-01 19:57:49.405249 es de: 0.26877471632115
+El precio del: BTC al 2021-11-01 19:57:50.350095 es de: 60868.48198524311
+El precio del: ETH al 2021-11-01 19:57:51.057141 es de: 4304.05331924176
+El precio del: ADA al 2021-11-01 19:57:51.951687 es de: 1.94015535261784
+El precio del: SHIB al 2021-11-01 19:57:52.742297 es de: 7.052976786e-05
+El precio del: DOGE al 2021-11-01 19:59:05.950038 es de: 0.26877621389562
+El precio del: BTC al 2021-11-01 19:59:10.178430 es de: 60892.35626657453
+El precio del: ETH al 2021-11-01 19:59:10.918804 es de: 4308.431215204501
+El precio del: ADA al 2021-11-01 19:59:11.719550 es de: 1.93932111120148
+El precio del: SHIB al 2021-11-01 19:59:12.475263 es de: 7.046463789e-05
+El precio del: DOGE al 2021-11-01 20:00:32.571151 es de: 0.26906691722815
+El precio del: BTC al 2021-11-01 20:00:33.774122 es de: 60941.147346048136
+El precio del: ETH al 2021-11-01 20:00:34.555315 es de: 4309.338961256042
+El precio del: ADA al 2021-11-01 20:00:35.352030 es de: 1.93939695151876
+El precio del: SHIB al 2021-11-01 20:00:36.101578 es de: 7.054411832e-05
+{'ok': True, 'result': {'message_id': 197, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635814836, 'text': 'El precio en USD del: SHIB es de: 388.31060650465076'}}
+El precio del: DOGE al 2021-11-01 20:03:50.522352 es de: 0.26869411128192
+El precio del: BTC al 2021-11-01 20:03:52.131547 es de: 60835.46264512508
+El precio del: ETH al 2021-11-01 20:03:52.912637 es de: 4305.195358980571
+El precio del: ADA al 2021-11-01 20:03:53.818473 es de: 1.93955725649624
+El precio del: SHIB al 2021-11-01 20:03:54.584116 es de: 7.068200161e-05
+{'ok': True, 'result': {'message_id': 198, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635815034, 'text': 'El precio en USD del: SHIB es de: 389.06958606583663'}}
+El precio del: DOGE al 2021-11-01 20:05:37.555559 es de: 0.26908053230815
+El precio del: BTC al 2021-11-01 20:05:39.305169 es de: 60811.66398394097
+El precio del: ETH al 2021-11-01 20:05:40.320549 es de: 4303.1926317727375
+El precio del: ADA al 2021-11-01 20:05:43.969643 es de: 1.93757405273831
+El precio del: DOGE al 2021-11-01 20:07:19.699713 es de: 0.26828157231859
+El precio del: BTC al 2021-11-01 20:07:20.642894 es de: 60772.69340470535
+El precio del: ETH al 2021-11-01 20:07:21.259505 es de: 4300.054928367012
+El precio del: ADA al 2021-11-01 20:07:21.900083 es de: 1.93675226089861
+El precio del: SHIB al 2021-11-01 20:07:22.540777 es de: 7.010932205e-05
+{'ok': True, 'result': {'message_id': 199, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635815242, 'text': 'El precio en USD del: SHIB es de: 385.9172673102506'}}
+El precio del: DOGE al 2021-11-01 20:09:18.105795 es de: 0.26867302500427
+El precio del: BTC al 2021-11-01 20:09:26.123412 es de: 60856.05565660492
+El precio del: ETH al 2021-11-01 20:09:26.935731 es de: 4305.727069529204
+El precio del: ADA al 2021-11-01 20:09:28.060331 es de: 1.93548106895663
+El precio del: SHIB al 2021-11-01 20:09:29.372709 es de: 7.009052293e-05
+{'ok': True, 'result': {'message_id': 200, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635815369, 'text': 'El precio en USD del: SHIB es de: 385.8137874190449'}}
+El precio del: DOGE al 2021-11-01 20:10:33.022411 es de: 0.26835504261701
+El precio del: BTC al 2021-11-01 20:10:33.913002 es de: 60838.37940596725
+El precio del: ETH al 2021-11-01 20:10:35.256662 es de: 4303.8076226521325
+El precio del: ADA al 2021-11-01 20:10:35.959564 es de: 1.93723553522401
+El precio del: SHIB al 2021-11-01 20:10:36.912322 es de: 7.009111597e-05
+{'ok': True, 'result': {'message_id': 201, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635815439, 'text': 'El precio en USD del: SHIB es de: 385.8170518119889'}}
+El precio del: DOGE al 2021-11-01 20:17:07.924179 es de: 0.26906032863021
+El precio del: BTC al 2021-11-01 20:17:08.252234 es de: 61041.475297347206
+El precio del: ETH al 2021-11-01 20:17:08.611806 es de: 4320.740148239834
+El precio del: ADA al 2021-11-01 20:17:08.846041 es de: 1.94111483649203
+El precio del: SHIB al 2021-11-01 20:17:09.580370 es de: 7.007929243e-05
+{'ok': True, 'result': {'message_id': 202, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635815830, 'text': 'El precio en USD del: SHIB es de: 385.75196905104764'}}
+El precio del: DOGE al 2021-11-01 20:19:16.000631 es de: 0.26876519128485
+El precio del: BTC al 2021-11-01 20:19:16.344313 es de: 61053.95955276211
+El precio del: ETH al 2021-11-01 20:19:16.567157 es de: 4320.315266672946
+El precio del: ADA al 2021-11-01 20:19:16.754827 es de: 1.94489459118013
+El precio del: SHIB al 2021-11-01 20:19:17.004543 es de: 6.996833814e-05
+{'ok': True, 'result': {'message_id': 203, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635815957, 'text': 'El precio en USD del: SHIB es de: 385.14122036398123'}}
+El precio del: DOGE al 2021-11-01 20:20:08.661766 es de: 0.26895136444252
+El precio del: BTC al 2021-11-01 20:20:08.958577 es de: 61114.32016107474
+El precio del: ADA al 2021-11-01 20:20:09.271264 es de: 1.94423663590203
+El precio del: SHIB al 2021-11-01 20:20:09.646378 es de: 6.965998739e-05
+El precio del: ETH al 2021-11-01 20:20:09.848993 es de: 4321.254735532779
+{'ok': True, 'result': {'message_id': 204, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635816010, 'text': 'El precio en USD del: ETH es de: 397.45812101237146'}}
+El precio del: DOGE al 2021-11-01 20:21:21.706531 es de: 0.26923489292041
+El precio del: BTC al 2021-11-01 20:21:23.925012 es de: 61162.663341731895
+El precio del: ADA al 2021-11-01 20:21:26.174509 es de: 1.945254626835
+El precio del: SHIB al 2021-11-01 20:21:29.470344 es de: 6.959584051e-05
+{'ok': True, 'result': {'message_id': 205, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635816092, 'text': 'El precio en USD del: SHIB es de: 383.0908044813883'}}
+El precio del: DOGE al 2021-11-01 20:21:50.312896 es de: 0.26933906035682
+El precio del: BTC al 2021-11-01 20:21:50.515991 es de: 61245.64365833757
+El precio del: ADA al 2021-11-01 20:21:50.719051 es de: 1.94612263648671
+El precio del: SHIB al 2021-11-01 20:21:50.906744 es de: 6.913953129e-05
+El precio del: ETH al 2021-11-01 20:21:51.250346 es de: 4327.266998785976
+{'ok': True, 'result': {'message_id': 206, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635816111, 'text': 'El precio en USD del: ETH es de: 398.01111383549716'}}
+El precio del: DOGE al 2021-11-01 20:25:35.595975 es de: 0.26943892839809
+El precio del: BTC al 2021-11-01 20:25:35.861822 es de: 61465.398052153054
+El precio del: ADA al 2021-11-01 20:25:36.127108 es de: 1.94819364165672
+El precio del: SHIB al 2021-11-01 20:25:36.377197 es de: 6.964170568e-05
+El precio del: ETH al 2021-11-01 20:25:36.580121 es de: 4336.93837213752
+{'ok': True, 'result': {'message_id': 207, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635816336, 'text': 'El precio en USD del: ETH es de: 398.9006623845113'}}
+El precio del: DOGE al 2021-11-01 20:26:36.062603 es de: 0.269437161087
+El precio del: BTC al 2021-11-01 20:26:36.484377 es de: 61425.42750576962
+El precio del: ADA al 2021-11-01 20:26:36.671931 es de: 1.94996710145196
+El precio del: SHIB al 2021-11-01 20:26:36.843669 es de: 6.960511492e-05
+El precio del: ETH al 2021-11-01 20:26:37.062678 es de: 4333.085411654368
+{'ok': True, 'result': {'message_id': 208, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635816397, 'text': 'El precio en USD del: ETH es de: 398.5462767887314'}}
+El precio del: DOGE al 2021-11-01 20:27:35.387396 es de: 0.26933095593859
+El precio del: BTC al 2021-11-01 20:27:35.622077 es de: 61397.16986115788
+El precio del: ADA al 2021-11-01 20:27:35.871658 es de: 1.94916269343444
+El precio del: SHIB al 2021-11-01 20:27:36.231132 es de: 6.969864559e-05
+El precio del: ETH al 2021-11-01 20:27:36.434385 es de: 4336.764865250254
+El precio del: DOGE al 2021-11-01 20:28:17.423686 es de: 0.26933095593859
+El precio del: BTC al 2021-11-01 20:28:17.705052 es de: 61397.16986115788
+El precio del: ADA al 2021-11-01 20:28:18.409507 es de: 1.94916269343444
+El precio del: SHIB al 2021-11-01 20:28:18.659395 es de: 6.969864559e-05
+{'ok': True, 'result': {'message_id': 210, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635816499, 'text': 'El precio en USD del: SHIB es de: 383.6566957834168'}}
+El precio del: ETH al 2021-11-01 20:28:20.440342 es de: 4336.764865250254
+{'ok': True, 'result': {'message_id': 211, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635816500, 'text': 'El precio en USD del: ETH es de: 398.88470365825793', 'entities': []}}
+El precio del: DOGE al 2021-11-01 20:37:46.794915 es de: 0.26951553241093
+El precio del: BTC al 2021-11-01 20:37:47.935279 es de: 61232.08688464058
+El precio del: ADA al 2021-11-01 20:37:49.122503 es de: 1.94707482186812
+El precio del: SHIB al 2021-11-01 20:37:50.060008 es de: 6.976408272e-05
+{'ok': True, 'result': {'message_id': 212, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635817071, 'text': 'El valor de mi inversion en SHIB en dolares es de: 384.0168949359948'}}
+El precio del: ETH al 2021-11-01 20:37:52.329587 es de: 4329.135953393614
+{'ok': True, 'result': {'message_id': 213, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635817072, 'text': 'El valor de mi inversion en ETH en dolares es de: 398.18301557054207'}}
+El precio del: DOGE al 2021-11-01 20:39:06.187824 es de: 0.26963963088554
+El precio del: BTC al 2021-11-01 20:39:09.554775 es de: 61290.076641173364
+El precio del: ADA al 2021-11-01 20:39:10.044470 es de: 1.94668517610303
+El precio del: SHIB al 2021-11-01 20:39:10.244053 es de: 6.976026709e-05
+{'ok': True, 'result': {'message_id': 214, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635817150, 'text': 'El valor de mi inversion en SHIB en dolares es de: 383.9958917732254'}}
+El precio del: ETH al 2021-11-01 20:39:11.732659 es de: 4329.476701076402
+{'ok': True, 'result': {'message_id': 215, 'from': {'id': 2009031469, 'is_bot': True, 'first_name': 'dhvilleg', 'username': 'dhvilleg_bot'}, 'chat': {'id': 1393738324, 'first_name': 'Diego', 'last_name': 'Villegas', 'username': 'DiegoVillegast3', 'type': 'private'}, 'date': 1635817151, 'text': 'El valor de mi inversion en ETH en dolares es de: 398.2143566837207'}}
